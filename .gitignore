@@ -1,3 +1,13 @@
+# dummy test
 dicommit_file.txt
 dicommit_folder/
+
+# file
 tensorflow_test.ipynb
+
+
+# folder
+## python version download folder
+.venv/
+## tensorflow folder
+tfgpu/
