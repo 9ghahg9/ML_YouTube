@@ -1,0 +1,14 @@
+Project_name: teamfight_tactics-AI_project
+
+
+# teamfight_tactics-AI_project Git
+https://github.com/9ghahg9/teamfight_tactics-AI_project
+
+# git 파일 또는 폴더 commit 무시하기.
+https://sunhyeokchoe.github.io/posts/Ignoring-Files/
+
+# tfgpu 설치 방법
+https://limitsinx.tistory.com/317
+
+# 학습 방법
+https://onevision.tistory.com/entry/Optimizer-%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%ED%8A%B9%EC%84%B1-Momentum-RMSProp-Adam
