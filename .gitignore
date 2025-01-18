@@ -4,10 +4,13 @@ dicommit_folder/
 
 # file
 tensorflow_test.ipynb
+tensorflow-hub_test.ipynb
+desktop.ini
 
 # folder
 ## python version download folder
 .venv/
 ## tensorflow folder
 tfgpu/
+tfhub/
 data_file/
