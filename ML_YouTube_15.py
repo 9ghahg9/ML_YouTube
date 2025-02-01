@@ -2,7 +2,7 @@
 #@ ex1.
 import numpy as np
 
-loaded_text = np.loadtxt("./data-15-input_answer.csv", delimiter=',', dtype=np.float32, 
+loaded_text = np.loadtxt("./data_file/data-15-input_answer.csv", delimiter=',', dtype=np.float32, 
                          skiprows=1, encoding='utf-8')
 x_data = loaded_text[:, [0]]
 t_data = loaded_text[:, [1]]
@@ -62,7 +62,7 @@ print("result =", result)
 #@ ex2.
 import numpy as np
 
-nloaded_text = np.loadtxt("./data-15-test_score.csv", 
+nloaded_text = np.loadtxt("./data_file/data-15-test_score.csv", 
                           delimiter=',', dtype=np.float32,
                           skiprows=1, encoding='utf-8')
 x_ndata = nloaded_text[:, 0:-1]
